@@ -1,0 +1,31 @@
+
+.column {
+    min-height: 20rem;
+    color: white;
+    background-color: var(--COLOR-GRAY-DARK);
+    width: 33%;
+    max-width: 20rem;
+    margin: 1rem 1rem;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.titleWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleWrapper button {
+    all: unset;
+    cursor: pointer;
+}
+.empty-column {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    color: var(--COLOR-GRAY);
+}
+

@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --COLOR-GRAY: #374151;
+    --COLOR-GRAY-DARK: #111827;
+    --COLOR-GRAY-LIGHT: #d1d5db;
+    --COLOR-ONGOING: #f59e0b;
+    --COLOR-DONE: #16a34a;
+}

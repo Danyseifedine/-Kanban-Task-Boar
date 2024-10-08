@@ -1,0 +1,10 @@
+
+
+.app {
+    background-color: var(--COLOR-GRAY);
+    min-height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: start;    
+}
